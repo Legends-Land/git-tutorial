@@ -1,2 +1,2 @@
 console.log('Hello, World!');
-console.log('Vwersion 1');
+console.log('Version 2 update');
