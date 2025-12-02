@@ -1,6 +1,6 @@
 console.log('Hello, World!');
-console.log('Version 2 update');
+console.log('Version 3 update');
 
-<boyd>
+<body>
     <div>We made come changes and we will use git add . to stage then git committ</div>
-</boyd>
+</body>
